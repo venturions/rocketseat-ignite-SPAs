@@ -1,12 +1,12 @@
-# Projeto 1 - Fundamentos do React.js - Rocketseat
-Projeto referente ao primeiro desafio do Bootcamp Ignite - Trilha de React  feito pela Rocketseat.
+# Projeto 2 - Criando SPAs com ReactJs - Rocketseat
+Projeto referente as aulas do segundo módulo da trilha de React.js do bootcamp Ignite feito pela Rocketseat.
 
 ## Como instalar
 
 Clone o projeto utilizando o comando
 
 ```bash
-git clone https://github.com/venturions/rocketseat-ignite-desafio-1.git
+git clone https://github.com/venturions/rocketseat-ignite-SPAs.git
 ```
 
 <br>
